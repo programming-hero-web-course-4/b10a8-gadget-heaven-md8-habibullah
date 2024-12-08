@@ -10,7 +10,7 @@ const nav = <div className='lg:flex lg:gap-4'>
 
 export default function Navbar() {
   return (
-    <div className="navbar bg-base-100">
+    <div className="navbar">
     <div className="navbar-start">
         <div className="dropdown">
         <ul
